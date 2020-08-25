@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://kish123:kish123@book-club.u2gfw.mongodb.net/book-club?retryWrites=true&w=majority",
+  "jwtSecret": "mysecret"
+}
